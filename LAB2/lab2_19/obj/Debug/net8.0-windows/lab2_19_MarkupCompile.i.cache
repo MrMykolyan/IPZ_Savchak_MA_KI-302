@@ -1,0 +1,20 @@
+﻿lab2_19
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Mikol\Desktop\Лабораторні роботи\Інженерія програмного забезпечення\lab2_19\lab2_19\obj\Debug\net8.0-windows\
+lab2_19
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\Mikol\Desktop\Лабораторні роботи\Інженерія програмного забезпечення\lab2_19\lab2_19\App.xaml
+9444912881
+
+291720110764
+198610186637
+MainWindow.xaml;Pages\Bonuses.xaml;Pages\BookingsPage.xaml;Pages\DeleteBooking.xaml;Pages\EditBooking.xaml;Pages\ServiceDetails.xaml;Pages\SignUpForService.xaml;Pages\ViewReviews.xaml;styles.xaml;
+
+True
+
